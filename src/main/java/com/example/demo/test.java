@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class test {
     @GetMapping("/")
     String harsha(){
-        return "poiuyt";
+        return "harsha vardhan devarakonda";
     }
 }
